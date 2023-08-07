@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @1MalikErdas
 - I'm a software developer student, the school I'm in is called ROC Mondriaan.
-- I am good in HTML/CSS and PHP/SQL. I'm currently in my second year and I thrive to become a better developer.
+- I am good in HTML/CSS and PHP/SQL. I'm currently in my third year and I thrive to become a better developer.
